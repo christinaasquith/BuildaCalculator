@@ -1,0 +1,16 @@
+body {
+    background-color: #ff8c37;
+    line-height: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px; 
+    
+}
+
+.calculator {
+    text-align: center;
+    
+}
+
+.calculator--keys {
+    display: grid;
+}
